@@ -26,6 +26,22 @@
 	left: 200px;
 }
 
-.absolute{
-	position: absolute;
+.fixed{
+	position: fixed;
+	top: 100px;
+	right: 0px;
 }
+
+.relative2{
+	position: relative;
+}
+
+.absolute{
+	width: 200px;
+	min-height: 50px;
+	position: absolute;
+	right: 100px;
+	bottom: 10px;
+}
+
+
