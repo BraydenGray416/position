@@ -44,4 +44,26 @@
 	bottom: 10px;
 }
 
+.relative3{
+	position: relative;
+	height: 850px;
+	background-color: #2C2A4A;
+}
 
+.absolute2{
+	width: 125px;
+	min-height: 75px;
+	position: absolute;
+	right: 150px;
+	top: 50px;
+	background-color: #DABFFF;
+}
+
+.absolute3{
+	width: 150px;
+	min-height: 100px;
+	position: absolute;
+	left: 30px;
+	bottom: 100px;
+	background-color: #DABFFF;
+}
